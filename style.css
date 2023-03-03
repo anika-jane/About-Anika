@@ -100,16 +100,11 @@
         text-align: center;
     }
 
-    .project-link {
+    .primary-link {
         display: block;
         text-align: center;
         margin: 0 20px;
     }
-    img {
-        display: none;
-    }
-    .row {
-        diplay: none;
-    }
    
+     
   }
